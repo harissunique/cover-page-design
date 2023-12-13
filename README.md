@@ -127,7 +127,7 @@ Now,execute the code
 </html>
 ```
 ## Output:
-![](./output.png)
+![output](./output.png)
 
 ## Result:
 This code is successfully executed.
